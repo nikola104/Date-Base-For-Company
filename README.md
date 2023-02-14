@@ -13,7 +13,7 @@ are:
 
   1. Object Oriented Programming.
 
-      2.JSON files (nlohmann/JSON for Modern
+    2.JSON files (nlohmann/JSON for Modern
 C++).
 
   3. Tabulate library (p-ranav/tabulateTable
