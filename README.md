@@ -11,10 +11,10 @@ Technologies in the Application
 The application is written in C++, used
 are:
 
-1. Object Oriented Programming.
+  1. Object Oriented Programming.
 
 2.JSON files (nlohmann/JSON for Modern
 C++).
 
-3. Tabulate library (p-ranav/tabulateTable
+  3. Tabulate library (p-ranav/tabulateTable
 Maker for Modern C++)
